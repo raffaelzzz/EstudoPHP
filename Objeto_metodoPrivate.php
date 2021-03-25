@@ -10,7 +10,7 @@ class produto{
 
 
 //Devido a utilização do private, precisamos utilizar o setters(gravação) e getters(Leitura)
-//Métodos são publicos, ou seja, são acessíveis de fora da classe
+//Métodos são públicos, ou seja, são acessíveis de fora da classe
 //Os atributos são privates
 
 
